@@ -7,4 +7,5 @@ console.log(typeof a)
 console.log(typeof username)
 console.log(typeof status)
 console.log(typeof marks)
+
 console.log(typeof student)
